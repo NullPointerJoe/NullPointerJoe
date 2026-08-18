@@ -10,7 +10,7 @@ Estudiante de Ingeniería en Tecnologías de la Información. Este repositorio r
 Aplicación de escritorio en **Java + Swing** para la gestión de pacientes, médicos e ingresos hospitalarios, aplicando POO, herencia y operaciones CRUD.
 `Java` `Swing` `POO`
  
-### 🎓 [Sistema de Evaluación de Docente - Proyecto Base de Datos]((https://github.com/NullPointerJoe/Sistema-de-Evaluacion-de-Docente)
+### 🎓 [Sistema de Evaluación de Docente - Proyecto Base de Datos](https://github.com/NullPointerJoe/Sistema-de-Evaluacion-de-Docente)
 Diseño e implementación de base de datos en **MySQL**, con modelado MER/MR, normalización (3FN) y consultas SQL.
 `MySQL` `Modelado de datos` `SQL`
  
